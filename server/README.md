@@ -17,6 +17,10 @@ npm install knex sqlite3
 npm run knex:migrate
 
 npm install cors
+
+npm install @types/cors -D
+
+
 # Funcionalidades
 
 ## Conexões
