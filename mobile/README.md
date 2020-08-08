@@ -11,3 +11,7 @@ expo install react-native-gesture-handler react-native-reanimated react-native-s
 npm install @react-navigation/stack
 
 npm install @react-navigation/bottom-tabs
+
+npm install axios
+
+expo install @react-native-community/async-storage
