@@ -2,6 +2,6 @@
 
 ## App desenvolvido durante o treinamento NLW - Rocketseat
 
-Front - ReactJS
-Back - NodeJs
-Mobile - React Native
+### Front - ReactJS
+### Back - NodeJs
+### Mobile - React Native
